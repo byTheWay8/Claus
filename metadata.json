@@ -1,0 +1,10 @@
+{
+	"name": "Claus",
+	"description": "A Christmas mode on the 'Deluxe' theme.",
+	"version": "1.0",
+	"date": "2024-10-24",
+	"author": "byTheWay",
+	"author_uri": "https://github.com/byTheWay8",
+	"license": "CC0-1.0",
+	"min_q2a": "1.0"
+}
